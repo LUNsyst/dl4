@@ -1,5 +1,5 @@
 # udl
- dl4.3 is a simple program to linear regression.
+ dl4.3 is a simple program for linear regression.
  
  Short manual:
  Compilation requirements:
