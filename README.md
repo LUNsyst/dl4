@@ -14,10 +14,10 @@ Compilation:
 		** explore them,
 		** enter into explored folder via Linux terminal
 		** type: make 
-		   in the folrder dl4.3 should appear dl4.3 binary file, which You can run   
+		   in the folder dl4.3 should appear dl4.3 binary file, which You can run   
 Run the program dl4.3 for Linux:
     * in terminal type: ./dl4.3
-	* or: ./<path to binary file dl4.3>/dl4.3
+	* or: ./(path to binary file dl4.3)/dl4.3
 
 Construction of the input file: 
 	* File should not contain chars of the alphabet, ect. except integers (example: 4) and floating point numbers (example: 0.4).
